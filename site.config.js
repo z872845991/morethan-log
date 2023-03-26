@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "Jesse Wang",
+    name: "小懒鼠",
     image: "/xiaolanshu-avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Student",
-    bio: "I like doing something amazing.",
+    role: "Graduate",
+    bio: "相逢既是上上签",
     email: "z872845991@gmail.com",
 	linkedin: "",
     github: "z872845991",
@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "xiaolanshu-log",
+    title: "小懒鼠's Blog",
     description: "welcome to xiaolanshu-log!",
     theme: "light", // ['light', 'dark', 'auto']
   },
@@ -26,7 +26,7 @@ const CONFIG = {
   // CONFIG configration (required)
   link: "https://xiaolanshu-log.vercel.app/",
   since: 2023, // If leave this empty, current year will be used.
-  lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
+  lang: "zh-CN", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-xiaolanshu.vercel.app", // The link to generate OG image, don't end with a slash
   seo: {
     keywords: ["Blog", "Website", "Notion"],
