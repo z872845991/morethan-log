@@ -20,7 +20,7 @@ const CONFIG = {
   blog: {
     title: "xiaolanshu-log",
     description: "welcome to xiaolanshu-log!",
-    theme: "light", // ['light', 'dark', 'auto']
+    theme: "dark", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
