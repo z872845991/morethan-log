@@ -53,7 +53,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: "z872845991/xiaolanshu-log",
+      repo: "z872845991/utterances-comment",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
